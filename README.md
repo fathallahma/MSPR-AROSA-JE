@@ -1,14 +1,9 @@
 # Care Plant
 
-## Vlad Remi Mohamed Erwan Amine
 
-## **Auteurs**
+## **Auteur**
 
 - FATHALLAH Mohamed Amine
-- Baran Rémi
-- Derhille Erwan
-- Dokounin Vladislav
-- HADJEMI Mohamed El Amine
 
 ## **Introduction**
 
