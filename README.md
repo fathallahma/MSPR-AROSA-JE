@@ -67,6 +67,10 @@ pour installer les dépendances nécessaires
 - Puis Exécuter la commande :
 
 ```bash
+         $ $env:NODE_OPTIONS = "--openssl-legacy-provider"
+```
+
+```bash
          $ npm run web
 ```
 
